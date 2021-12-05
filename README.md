@@ -1,1 +1,2 @@
-# CRG4
+# Cvičenia z programovania IV. ročník
+## Python
