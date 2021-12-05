@@ -1,0 +1,5 @@
+objem_kecupu = input('Objem kečupu (v litroch): ')
+objem_kecupu = float(objem_kecupu)
+objem_flase = input('Objem fľaše (v litroch): ')
+objem_flase = float(objem_flase)
+print(f'Počet fliaš: {objem_kecupu // objem_flase}')
